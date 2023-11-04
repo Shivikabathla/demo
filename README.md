@@ -1,3 +1,3 @@
 # demo
-this is my first git repository.
-Author - shivika
+This is my first Git Repository.
+Author - Shivika
